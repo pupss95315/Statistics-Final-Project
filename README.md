@@ -44,9 +44,9 @@
 14. 人口中位數
 15. 都市人口比例（%）
 ### 結論
-HDI、專科手術人員密度與醫生密度為相關係數前三高的變數
-卡介苗施打率與確診率無相關
-目前 Model 能達到 Adjusted R^2 = 0.376，有 9 個變數無法通過 t-test，有潛在多重共線性問題
+* HDI、專科手術人員密度與醫生密度為相關係數前三高的變數
+* 卡介苗施打率與確診率無相關
+* 目前 Model 能達到 Adjusted R^2 = 0.376，有 9 個變數無法通過 t-test，有潛在多重共線性問題
 ### 參考資料
 Devakumar kp，A brief comparative study of epidemics，上網日期：2020.05.20，https://www.kaggle.com/imdevskp/a-brief-comparative-study-of-epidemics/input。
 SRK，Novel Corona Virus 2019 Dataset，上網日期：2020.05.20，https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=time_series_covid_19_confirmed.csv。
