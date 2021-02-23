@@ -48,11 +48,11 @@
 * 卡介苗施打率與確診率無相關
 * 目前 Model 能達到 Adjusted R^2 = 0.376，有 9 個變數無法通過 t-test，有潛在多重共線性問題
 ### 參考資料
-Devakumar kp，A brief comparative study of epidemics，上網日期：2020.05.20，https://www.kaggle.com/imdevskp/a-brief-comparative-study-of-epidemics/input。
-SRK，Novel Corona Virus 2019 Dataset，上網日期：2020.05.20，https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=time_series_covid_19_confirmed.csv。
-Dan Evans，World Bank WDI 2.12 - Health Systems，上網日期：2020.05.20，https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems。
-WHO，WHO vaccine-preventable diseases: monitoring system. 2019 global summary，上網日期：2020.05.20，https://apps.who.int/immunization_monitoring/globalsummary/countries?countrycriteria%5Bcountry%5D%5B%5D=AFG。
-UNDP，Human Development Reports，Table 1. Human Development Index and its components，上網日期：2020.05.20，http://hdr.undp.org/en/composite/HDI。
-Tanu N Prabhu，Population by Country - 2020，上網日期：2020.05.20，https://www.kaggle.com/tanuprabhu/population-by-country-2020。
+* Devakumar kp，A brief comparative study of epidemics，上網日期：2020.05.20，https://www.kaggle.com/imdevskp/a-brief-comparative-study-of-epidemics/input。
+* SRK，Novel Corona Virus 2019 Dataset，上網日期：2020.05.20，https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=time_series_covid_19_confirmed.csv。
+* Dan Evans，World Bank WDI 2.12 - Health Systems，上網日期：2020.05.20，https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems。
+* WHO，WHO vaccine-preventable diseases: monitoring system. 2019 global summary，上網日期：2020.05.20，https://apps.who.int/immunization_monitoring/globalsummary/countries?countrycriteria%5Bcountry%5D%5B%5D=AFG。
+* UNDP，Human Development Reports，Table 1. Human Development Index and its components，上網日期：2020.05.20，http://hdr.undp.org/en/composite/HDI。
+* Tanu N Prabhu，Population by Country - 2020，上網日期：2020.05.20，https://www.kaggle.com/tanuprabhu/population-by-country-2020。
 
 Github page 網址 : https://pupss95315.github.io/Statistics-Final-Project/
